@@ -1,0 +1,1 @@
+This project includes cleaning and exploratory analysis of data related to world life expectancy using MySQL. This guided project is based off of content created by Mr. Alex Freburg on his platform, Analyst Builder. 
